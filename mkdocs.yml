@@ -1,0 +1,14 @@
+site_name: SZTE DevOps Course
+nav:
+  - Home: index.md
+  - FAQ: faq.md
+extra:
+  collapse_toc: true
+markdown_extensions:
+  - toc:
+      permalink: "#"
+extra_css: [css/extra.css]
+theme:
+  name: material
+plugins:
+    - search  
